@@ -16,6 +16,17 @@ export default function Home() {
       </Head>
      <main className='h-[2000px]'>
       <HeroBanner/>
+      <div className='text-center mx-auto mx-w-[800px] my-[50px]'>
+      <div className="text-[28px] md:text-[34px] mb-5 font-semibold leading-tight">
+                        Cushioning for Your Miles
+                    </div>
+                    <div className="text-md md:text-xl md:w-[800px] mx-auto text-center">
+                        A lightweight Nike ZoomX midsole is combined with
+                        increased stack heights to help provide cushioning
+                        during extended stretches of running.
+                    </div>
+
+      </div>
      </main>
     </>
   )
